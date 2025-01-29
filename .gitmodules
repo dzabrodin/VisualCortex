@@ -1,0 +1,3 @@
+[submodule "bin/res/CalibrationData"]
+	path = bin/res/CalibrationData
+	url = https://github.com/dzabrodin/CalibrationData
